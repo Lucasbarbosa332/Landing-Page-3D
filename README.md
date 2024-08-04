@@ -14,7 +14,7 @@ Bem-vindo à nossa página dedicada ao fascinante mundo dos dragões! Desenvolvi
 
 Nossa página inicial é projetada para ser totalmente responsiva, garantindo que a experiência seja otimizada em qualquer dispositivo, seja um desktop, tablet ou smartphone. Utilizamos animações em CSS3 para criar uma interface dinâmica e envolvente. Elementos como textos e imagens deslizam suavemente na tela, destacando informações importantes e proporcionando uma experiência visual agradável.
 
-3Galeria Flutuante
+# 3Galeria Flutuante
 
 Uma das características mais impressionantes do nosso site é a galeria de imagens com efeito flutuante. As imagens parecem se mover livremente, criando uma sensação de profundidade e dinamismo. Cada imagem representa um aspecto único do mundo dos dragões, desde ilustrações artísticas até fotos de filmes e jogos populares. Este efeito é conseguido através de técnicas avançadas de CSS e JavaScript, que permitem que os elementos da galeria respondam aos movimentos do cursor e às interações do usuário.
 
