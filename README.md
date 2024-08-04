@@ -7,7 +7,7 @@ Uma landing page em 3D com carrossel de imagens animadas
 
 
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Landing-Page-3D/blob/main/gif.mp4"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Landing-Page-3D/blob/main/pagina_drg%C3%A3o_-removebg-preview.png"></img>
 
 <br/>
 
