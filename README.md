@@ -3,6 +3,10 @@ Uma landing page em 3D com carrossel de imagens animadas
 
 
 
+![Descrição do GIF](https://github.com/Lucasbarbosa332/Landing-Page-3D/blob/main/gif.mp4)
+
+
+
   <p align="center"><img width=50% src="https://github.com/Lucasbarbosa332/Landing-Page-3D/blob/main/gif.mp4"></img></p>
 
 
