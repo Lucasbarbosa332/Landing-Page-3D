@@ -30,7 +30,7 @@ Outra funcionalidade chave da nossa página é o carrossel animado. Este carross
 Nosso site sobre dragões combina design responsivo, animações elegantes e funcionalidades interativas para oferecer uma experiência única. Seja você um entusiasta de dragões ou simplesmente curioso sobre essas criaturas míticas, nossa página foi criada para capturar sua imaginação e fornecer uma riqueza de informações de maneira visualmente atraente. Explore e desfrute do fascinante mundo dos dragões!
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Landing-Page-3D/blob/main/pagina_drg%C3%A3o___1_-removebg-preview.png"></img>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -53,4 +53,4 @@ Nosso site sobre dragões combina design responsivo, animações elegantes e fun
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-[Poem na mesa](https://poemnamesa.netlify.app/)
+[Dragões](https://akumanodragon.netlify.app/)
